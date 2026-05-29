@@ -14,7 +14,7 @@ built on three inseparable pillars:
 - **IDS** — Intelligent Decision System  
 - **SCB** — Secure Context Bridge
 
-Covers EU AI Act Articles 9, 10, 12, 13, 14, 15 automatically.
+Covers EU AI Act Articles 9, 10, 11,12, 13, 14, 15 automatically.
 
 ## Documents
 
