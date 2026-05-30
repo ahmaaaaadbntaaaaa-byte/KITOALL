@@ -29,5 +29,4 @@ Covers EU AI Act Articles 9, 10, 11,12, 13, 14, 15 automatically.
 
 Published April 23, 2025. No entity may patent these concepts after this date.
 
-Keywords: AI Governance, EU AI Act, USID...
 
