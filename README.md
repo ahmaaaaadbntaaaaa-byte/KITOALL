@@ -2,7 +2,9 @@
 
 **Author:** Ahmad Qasim Mohammad Hassan  
 **ORCID:** 0009-0001-4360-0802  
-**License:** CC BY-NC-ND 4.0 (documents) — Commercial license required for implementation  
+<https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>
+**License:** CC BY-NC-ND 4.0 
+(documents) — Commercial license required for implementation  
 **Published:** April 23, 2025  
 
 ## Overview
